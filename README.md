@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://graph.org/file/45476eab370279e07150f.jpg">
+  <img src="https://telegra.ph/file/528c8c7537f629f8df18e.jpg">
 </p>
 
 <h3 align="center">
@@ -31,11 +31,11 @@
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/ck_support"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/NIGHT_CLUB_XD"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/ck_robot_status"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/KNOW_UR_JIJA"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
