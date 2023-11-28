@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 𝐂𝐤 𝐑𝐨𝐁𝐨 [🇮🇳] 」──
+    ──「 𝙋𝘼𝙔𝘼𝙇 𝙭 𝙈𝙐𝙎𝙄𝘾 [🇮🇳] 」──
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/45476eab370279e07150f.jpg">
+  <img src="https://telegra.ph/file/528c8c7537f629f8df18e.jpg">
 </p>
 
 <p align="center">
