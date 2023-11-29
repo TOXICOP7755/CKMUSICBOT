@@ -43,7 +43,7 @@ async def start_comm(client, message: Message, _):
         name = message.text.split(None, 1)[1]
         if name[0:4] == "help":
             keyboard = help_pannel(_)
-            await message.reply_photo("https://telegra.ph/file/75ff6da06aaff56109f3b.jpg")
+            await message.reply_sticker("CAACAgUAAxkBAAEI3w5kVdocaAfLWkAVjZ3v3TB_2gXaIAACVAcAAqhTkFbqogL0gKDhQi8E")
             return await message.reply_photo(
                        photo=config.START_IMG_URL,
                        caption=_["help_1"].format(config.SUPPORT_HEHE), reply_markup=keyboard
@@ -173,7 +173,7 @@ async def start_comm(client, message: Message, _):
                             text="• ʏᴏᴜᴛᴜʙᴇ •", url=f"{link}"
                         ),
                         InlineKeyboardButton(
-                            text="• sᴜᴩᴩᴏʀᴛ •", url="https://t.me/ck_support"
+                            text="• sᴜᴩᴩᴏʀᴛ •", url="https://t.me/NIGHT_CLUB_XD"
                         ),
                     ],
                 ]
